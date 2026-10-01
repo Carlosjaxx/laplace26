@@ -1,0 +1,15 @@
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.exe
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.deps.json
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.runtimeconfig.json
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.dll
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.pdb
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.AssemblyInfoInputs.cache
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.AssemblyInfo.cs
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.csproj.CoreCompileInputs.cache
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.dll
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\refint\PruebasILaplace.dll
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.pdb
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.genruntimeconfig.cache
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\ref\PruebasILaplace.dll
+D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasI.C3070EE8.Up2Date
