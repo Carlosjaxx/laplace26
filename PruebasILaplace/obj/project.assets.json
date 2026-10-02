@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\salaz\\.nuget\\packages\\": {},
+    "C:\\Users\\pablo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\laplace26\\PruebasILaplace\\PruebasILaplace.csproj",
       "projectName": "PruebasILaplace",
-      "projectPath": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj",
-      "packagesPath": "C:\\Users\\salaz\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\obj\\",
+      "projectPath": "C:\\Users\\pablo\\source\\repos\\laplace26\\PruebasILaplace\\PruebasILaplace.csproj",
+      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pablo\\source\\repos\\laplace26\\PruebasILaplace\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\salaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -32,6 +32,7 @@
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
