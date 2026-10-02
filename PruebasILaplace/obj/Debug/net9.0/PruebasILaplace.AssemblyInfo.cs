@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebasILaplace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89709af359becd8c51230317fa0344aba4e6e56b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1bc7c6f5f8a96893abcfc136991e801496c23e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebasILaplace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebasILaplace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

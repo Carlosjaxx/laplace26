@@ -29,9 +29,9 @@ do
 
 // ---------- Estilo de salida ----------
 static void Color(string rgb, string s) => Console.WriteLine($"\u001b[38;2;{rgb}m{s}\u001b[0m");
-static void T(string s) => Color("255;215;0", s);     // dorado: títulos y explicación
-static void E(string s) => Color("192;192;192", s);   // plateado: expresiones matemáticas
-static void Real() => T("Realizando...");
+static void T(string s) => Color("255;0;0", s);     
+static void E(string s) => Color("255;255;255", s);   
+static void Real() => T("Calculando");
 static int Coef(string s) => s is "" or "+" ? 1 : s == "-" ? -1 : int.Parse(s);
 
 // ---------- Resolver cada término ----------
@@ -51,7 +51,7 @@ static string Resolver(string p)
         E($"{k} lim b->∞ ∫[0,b] e^(-st) dt");
         T("Integramos:");
         E($"lim b->∞ : [-{k}/s(e^(-st))][0,b]");
-        T("Evaluacion...");
+        T("calculando");
         E($"lim b->∞ : [-{k}/s(e^(-s*b))] - [-{k}/s(e^(-s*0))]");
         Real(); T("Para s > 0, e^(-sb) -> 0");
         E($"lim b->∞ : [0] - [-{k}/s(e^(-s*0))]");
@@ -79,7 +79,7 @@ static string Resolver(string p)
             T($"\nPotencia {k}:");
             E($"u = t^{k}, du = {k}t^{k - 1} dt, dv = e^(-st) dt, v = -e^(-st)/s");
             E($"I_{k}(b) = [-t^{k}e^(-st)/s][0,b] + ({k}/s)I_{k - 1}(b)");
-            T("Evaluacion..."); E($"-b^{k}e^(-sb)/s -> 0 cuando b->∞ (s > 0)");
+            T("procesando"); E($"-b^{k}e^(-sb)/s -> 0 cuando b->∞ (s > 0)");
         }
         T("\nIntegral base:");
         E("I_0(b) = [-e^(-st)/s][0,b] = (1 - e^(-sb))/s -> 1/s");
@@ -111,7 +111,7 @@ static string Resolver(string p)
         E($"{c} lim b->∞ ∫[0,b] e^(-qt) dt");
         T("Sustitución: u = -qt, du = -q dt");
         E("∫e^(-qt) dt = -e^(-qt)/q");
-        T("Evaluacion...");
+        T("calculando");
         E($"{c} lim b->∞ [-e^(-qb)/q + 1/q]");
         Real(); T("Si q > 0, e^(-qb) -> 0");
         E($"{c}/{q}");
